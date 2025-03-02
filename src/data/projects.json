@@ -1,0 +1,59 @@
+[
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "projects/portfolio.png",
+      "description": "A personal portfolio website showcasing my projects, skills, and experience. Built with React and styled using CSS Modules.",
+      "skills": ["React", "JavaScript", "CSS Modules", "Vite"],
+      "demo": "https://yourportfolio.com",
+      "source": "https://github.com/nisaydin/portfolio"
+    },
+    {
+      "title": "Dice Game",
+      "imageSrc": "projects/dice.png",
+      "description": "A simple dice game built using JavaScript, where two players roll dice and compare results.",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://yourdicegame.com",
+      "source": "https://github.com/nisaydin/dice-game"
+    },
+    {
+      "title": "Love Calculator",
+      "imageSrc": "projects/love-calculator.png",
+      "description": "A fun web application that calculates love compatibility between two names.",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://yourlovecalculator.com",
+      "source": "https://github.com/nisaydin/love-calculator"
+    },
+    {
+      "title": "Drum Kit",
+      "imageSrc": "projects/drumkit.png",
+      "description": "An interactive drum kit that plays drum sounds when pressing different keys.",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://yourdrumkit.com",
+      "source": "https://github.com/nisaydin/drum-kit"
+    },
+    {
+      "title": "Random Password Generator",
+      "imageSrc": "projects/random.png",
+      "description": "A tool that generates secure passwords with customizable options like uppercase, lowercase, numbers, and symbols.",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://yourpasswordgenerator.com",
+      "source": "https://github.com/nisaydin/password-generator"
+    },
+    {
+      "title": "Firebase Authentication App",
+      "imageSrc": "projects/firebase-auth.png",
+      "description": "A user authentication system with Firebase, allowing users to sign up, log in, and reset passwords.",
+      "skills": ["React", "Firebase", "TypeScript", "Tailwind CSS"],
+      "demo": "https://yourfirebaseauthapp.com",
+      "source": "https://github.com/nisaydin/firebase-auth-app"
+    },
+    {
+      "title": "Task Manager App",
+      "imageSrc": "projects/task-manager.png",
+      "description": "A full-stack task manager application with authentication, CRUD operations, and task filtering.",
+      "skills": ["React", "Node.js", "Express", "MongoDB", "Redux"],
+      "demo": "https://yourtaskmanager.com",
+      "source": "https://github.com/nisaydin/task-manager"
+    }
+  ]
+  
